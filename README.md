@@ -1,7 +1,5 @@
 # Self Driving with Carla
 
-# Project Title
-
 This project will develop a Self Driving Model in Carla.
 
 ## Description
